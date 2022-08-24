@@ -14,6 +14,7 @@
   <h2>{message}</h2>
   <h3>Change me!</h3>
   <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+  <img src="/_static/earthworm_logo.jpeg" alt="earthworm.studio logo"/>
 </main>
 
 <style>
